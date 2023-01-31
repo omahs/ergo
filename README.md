@@ -36,7 +36,7 @@ different regimes, they require for Docker too, run as `sudo sbt it2:test`.
 
 ## Open project in IDE
 
-Your can use [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Community or Ultimate edition) or 
+You can use [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Community or Ultimate edition) or 
 [VSCode](https://code.visualstudio.com/) + [Metals](https://scalameta.org/metals/).
 Before opening the project in IDE make sure it can be built with sbt. 
 You may need to fix dependency resolution errors first.
